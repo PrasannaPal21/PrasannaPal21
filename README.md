@@ -128,7 +128,7 @@ building = A self-healing architecture that might just achieve sentience.
 
 ---
 
-### 📊 **GitHub Vitals (a.k.a. My Dev Pulse)**
+<!-- ### 📊 **GitHub Vitals (a.k.a. My Dev Pulse)**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasannaPal21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Prasanna's GitHub Stats" />
@@ -144,7 +144,7 @@ building = A self-healing architecture that might just achieve sentience.
   <sub><i>Every view adds +1 dopamine to my brain. Keep going.</i></sub>
 </div>
 
----
+--- -->
 
 🧠 *Disclaimer:* Some of the systems I build may or may not have achieved sentience. Proceed with caution.
 
