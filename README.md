@@ -51,8 +51,8 @@ building = A self-healing architecture that might just achieve sentience.
 ### 🏆 **Achievements (a.k.a. Boss Fights Won)**
 
 * 🥇 **Winner** - Smart India Hackathon (SIH) 2024 — defeated deadlines and bugs alike.
+* 🥇 **Winner** - Smart India Hackathon (SIH) 2025.
 * ☁️ **1st Runner-up** - Google Dev Sprint 2025 (Cloud) — built on caffeine.
-* 🧠 **Rank 17** - National Entrepreneurship Challenge, IIT Bombay.
 
 ---
 
