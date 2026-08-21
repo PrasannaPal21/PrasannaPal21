@@ -30,16 +30,16 @@ current_role = B.Tech Computer Science Student
 current_institution = VIT-AP University
 
 [about]
-summary = I'm a third-year B.Tech CS student with a full-stack mindset and caffeine dependency. 
+summary = I'm a Final-year B.Tech CS student with a full-stack mindset and caffeine dependency. 
           I architect systems that (mostly) don't break, automate chaos with CI/CD, and whisper to servers
           until they behave. Passionate about scalable web systems, DevOps sorcery, and AI that actually works. 
 
 [core_interests]
-1 = Full Stack Development (MERN – my comfort zone)
-2 = DevOps & System Automation (CI/CD pipelines are my meditation)
-3 = Cloud Architecture (AWS, GCP – where my dreams are deployed)
-4 = AI/ML Engineering & Computer Vision (teaching machines to see what humans miss)
-5 = Embedded Systems & IoT Security (tiny computers, massive headaches)
+1 = Full Stack Development
+2 = DevOps & System Automation 
+3 = Cloud Architecture 
+4 = AI/ML Engineering & Computer Vision 
+5 = Embedded Systems & IoT Security 
 
 [current_focus]
 learning = MLOps workflows, microservices wizardry, and distributed systems that don’t implode.
