@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://github.com/PrasannaPal21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Prasanna+Pal.;Full-Stack+Dev+%7C+Bug+Exterminator+%7C+Pixel+Mechanic.;Building+Things+That+Don't+Crash+...+Usually.;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Prasanna+Pal.;Building+Things+That+Don't+Crash+...+Usually.;" alt="Typing SVG" />
   </a>
 </div>
 
