@@ -48,68 +48,12 @@ building = A self-healing architecture that might just achieve sentience.
 
 ---
 
-### 🏆 **Achievements (a.k.a. Boss Fights Won)**
+### 🏆 **Achievements **
 
-* 🥇 **Winner** - Smart India Hackathon (SIH) 2024 — defeated deadlines and bugs alike.
+* 🥇 **Winner** - Smart India Hackathon (SIH) 2024.
 * 🥇 **Winner** - Smart India Hackathon (SIH) 2025.
-* ☁️ **1st Runner-up** - Google Dev Sprint 2025 (Cloud) — built on caffeine.
+* ☁️ **1st Runner-up** - Google Dev Sprint 2025 (Cloud).
 
----
-
-### 💻 **Tech Arsenal: The Tools I Wield**
-
-**Languages & Tools:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,bash" alt="Languages and Tools" />
-</p>
-
-**Frontend:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Tools" />
-</p>
-
-**Backend & Databases:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,postgres" alt="Backend and Databases" />
-</p>
-
-**DevOps & Cloud (a.k.a. summoning servers):**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,gcp" alt="DevOps and Cloud" />
-</p>
-
-**AI, Data & Other Geeky Stuff:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Machine Learning" />
-  <br><br>
-  <!-- <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=F2C811" alt="Power BI" /> -->
-</p>
-
----
-
-### 🚀 **Featured Projects (a.k.a. Digital Children)**
-
-* **[PARAS - Parking Automation & Reservation Analytics System](https://github.com/tanmayrajurkar/PARAS)**
-
-  * **Role:** Founder & CTO / Full-Stack Developer
-  * **Description:** Think of it as Jarvis for parking. Real-time CV monitoring, congestion analytics, and a government dashboard. Yes, it talks data.
-
-* **[SAGAR - Spatio-temporal Analytics Gateway for Aquatic Resources](https://github.com/Technical-Mavle)**
-
-  * **Role:** Backend Developer
-  * **Description:** An AI-powered marine intelligence platform for CMLRE. I built secure APIs that even Poseidon would approve of.
-
-<!-- * **[Krishi Prabha - Smart Agri Platform](https://github.com/PrasannaPal21/KrishiPrabha)**
-
-  * **Role:** Developer
-  * **Description:** Helping farmers with weather data, government schemes, and IoT sensors. Basically, an AI-powered farmer's best buddy. -->
 
 ---
 
@@ -131,6 +75,5 @@ building = A self-healing architecture that might just achieve sentience.
 
 --- -->
 
-🧠 *Disclaimer:* Some of the systems I build may or may not have achieved sentience. Proceed with caution.
+*Disclaimer:* Some of the systems I build may or may not have achieved sentience. Proceed with caution.
 
-*Last reboot: 2025-11-08*
