@@ -48,7 +48,7 @@ building = A self-healing architecture that might just achieve sentience.
 
 ---
 
-### 🏆 **Achievements **
+### 🏆 **Achievements**
 
 * 🥇 **Winner** - Smart India Hackathon (SIH) 2024.
 * 🥇 **Winner** - Smart India Hackathon (SIH) 2025.
